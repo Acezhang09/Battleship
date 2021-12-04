@@ -47,7 +47,7 @@ struct Ship{
 
 typedef vector < Ship > shipvector;
 typedef vector < Point > pointvector;
-typedef vector < vector < Point > > pointpointvector;
+typedef vector < vector < Point > > ;
 
 
 auto GenerateMatrix() -> stringmatrix {
