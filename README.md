@@ -1,1 +1,1 @@
-# battleship_game
+# Battleship
